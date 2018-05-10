@@ -11,3 +11,7 @@ GUI framework using tkinter, for use with encounters file
 
 ## tombEncounters
 .csv file containing possible wilderness encounters in Chult
+
+
+### Sample run of GUI
+https://gyazo.com/3a86dd75dc559572934bd43405844a80
